@@ -1,0 +1,1 @@
+{"name":"AlgoHub POS","short_name":"AlgoHub","start_url":"/","display":"standalone","background_color":"#ffffff","lang":"en","scope":"/","description":"Multi-tenant Point of Sale and Inventory Management","theme_color":"#3b82f6","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
